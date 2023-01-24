@@ -3,7 +3,7 @@
 - 📫 How to reach me: ian.tayler.sandi@gmail.com
 - ⚡ Fun fact: I have been programming for 3 years
 - 🤡 My instagram: [l__________username__________l](https://www.instagram.com/l__________username__________l/)
-- 💻 My Email Spammer Website: [Email Spammer]([Email-Spammer/README.md](https://faef-2600-1700-c3d0-89e0-00-30.ngrok.io/))
+- 💻 My Email Spammer Website: [Email Spammer](https://faef-2600-1700-c3d0-89e0-00-30.ngrok.io/))
 
 #
 
