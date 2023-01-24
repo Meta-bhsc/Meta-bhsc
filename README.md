@@ -7,4 +7,4 @@
 
 #
 
-**Feel free to ask me to make a project, I like to practice my skills. I may have to turn projects down, because my knowledge is a little limited. I'll try me best to try and learn it to make it for you, but I may not be able to due to school.**
+**Feel free to ask me to make a project, I like to practice my skills. I may have to turn projects down, because my knowledge is a little limited. I'll try my best to try and learn it to make it for you, but I may not be able to due to school.**
